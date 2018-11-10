@@ -1,0 +1,1 @@
+C:\repos\pelican\content>pelican -s C:\repos\pelican\pelicanconf.py -o C:\repos\pelican\output C:\repos\pelican\content
