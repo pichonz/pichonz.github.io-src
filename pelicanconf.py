@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = 'David Rojas'
 SITENAME = 'Hedaro Blog'
-SITEURL = 'http://blog.hedaro.com'
 
 PATH = 'content'
 
@@ -29,7 +28,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-DISQUS_SITENAME = 'disqus_9Y6c9mGdy1'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # Blogroll
