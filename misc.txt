@@ -2,7 +2,7 @@ git clone --recurse-submodules https://github.com/pichonz/pichonz.github.io-src.
 cd output
 git checkout master
 
-pelican -s C:\repos\pelicansrc\pelicanconf.py -o C:\repos\pelicansrc\output C:\repos\pelicansrc\content
+pelican -s C:\repos\pelicansrc\publishconf.py -o C:\repos\pelicansrc\output C:\repos\pelicansrc\content
 
 git add -A
 git commit -m "updates"
