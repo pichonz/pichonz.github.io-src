@@ -1,0 +1,12 @@
+---
+title: Pandas Plot - How to Create a Basic Pandas Visualization
+slug: Create-Pandas-Visualization
+date: 2018-11-12
+tags: pandas plot,pandas visualization,matplotlib pandas
+category: pandas
+author: David Rojas
+---
+
+In this lesson we will learn how to create a basic pandas plot. Discover why MatPlotLib is Python's default charting library and how it is used to create Pandas visualizations.
+
+-David
