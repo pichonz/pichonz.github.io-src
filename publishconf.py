@@ -21,4 +21,4 @@ DELETE_OUTPUT_DIRECTORY = False
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = 'hedaro'
-#GOOGLE_ANALYTICS = ""
+GOOGLE_UNIVERSAL_ANALYTICS = "UA-72322029-1"
