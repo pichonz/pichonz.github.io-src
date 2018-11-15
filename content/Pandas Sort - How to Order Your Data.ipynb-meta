@@ -1,0 +1,12 @@
+---
+title: Pandas Sort - How to Order Your Data
+slug: pandas-sort
+date: 2018-11-14
+tags: pandas sort
+category: pandas
+author: David Rojas
+---
+
+This Notebook will cover all the techniques to quickly sort your data in Pandas. Whether you are looking to sort one or multiple columns. Or whether you are looking to order your data in an ascending or descending fashion, we have you covered.
+
+-David
