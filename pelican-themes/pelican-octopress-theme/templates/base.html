@@ -45,6 +45,10 @@
   {% if article and article.status == 'draft' %}
     <meta name="robots" content="noindex, nofollow" />
   {% endif %}
+  
+  {% if tag or tags %}
+    <meta name="robots" content="noindex" />
+  {% endif %}   
 
   {% if FAVICON_FILENAME %}
     <link href="{{ SITEURL }}/{{ FAVICON_FILENAME }}" rel="icon">
