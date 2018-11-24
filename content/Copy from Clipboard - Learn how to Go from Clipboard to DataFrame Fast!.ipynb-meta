@@ -5,6 +5,7 @@ date: 2018-11-17
 tags: pandas clipboard, dataframe clipboard, copy from clipboard
 category: pandas
 author: David Rojas
+description: Copy from clipboard is a handy feature I use regularly. It helps me quickly get data into a dataframe. The data I am copying over to the clipboard is usually pretty tiny and most likely not saved anywhere. 
 ---
 
 Copy from clipboard is a handy feature I use regularly. It helps me quickly get data into a dataframe. The data I am copying over to the clipboard is usually pretty tiny and most likely not saved anywhere. 
