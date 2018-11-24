@@ -5,6 +5,7 @@ date: 2018-11-22
 tags: pandas read sql,pandas sql,pandas to sql,pandas sql query
 category: pandas
 author: David Rojas
+description: In this Pandas SQL tutorial we will be going over how to connect to a Microsoft SQL Server. I have a local installation of SQL Server and we will be going over everything step-by-step.
 ---
 
 In this Pandas SQL tutorial we will be going over how to connect to a Microsoft SQL Server. I have a local installation of SQL Server and we will be going over everything step-by-step.
