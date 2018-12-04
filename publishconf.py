@@ -18,6 +18,10 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = False
 
+# prevent tag pages from populating
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = 'hedaro'
