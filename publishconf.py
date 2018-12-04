@@ -21,6 +21,7 @@ DELETE_OUTPUT_DIRECTORY = False
 # prevent tag pages from populating
 TAGS_SAVE_AS = False
 TAG_SAVE_AS = False
+DIRECT_TEMPLATES = ['index', 'categories', 'authors', 'archives']
 
 # Following items are often useful when publishing
 
