@@ -19,8 +19,8 @@ CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 DELETE_OUTPUT_DIRECTORY = False
 
 # prevent tag pages from populating
-TAGS_SAVE_AS = ''
-TAG_SAVE_AS = ''
+TAGS_SAVE_AS = False
+TAG_SAVE_AS = False
 
 # Following items are often useful when publishing
 

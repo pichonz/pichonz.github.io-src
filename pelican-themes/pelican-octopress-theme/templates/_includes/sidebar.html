@@ -26,13 +26,6 @@
   </section>
   {% endif %} 
 
-  <section>
-  <h3>Tags</h3>
-  {% for tag, article in tags %}
-    <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
-  {% endfor %}
-  </section>
-
   {% include '_includes/github.html' %}
   {% include '_includes/social.html' %}
   {% include '_includes/links.html' %}
