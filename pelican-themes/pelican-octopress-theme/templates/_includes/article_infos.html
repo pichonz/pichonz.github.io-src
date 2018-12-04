@@ -12,11 +12,4 @@
   <span class="categories">
     <a class='category' href='{{ SITEURL }}/{{ article.category.url }}'>{{ article.category }}</a>
   </span>
-  {% if article.tags %}
-  <span class="categories">
-    {% for tag in article.tags %}
-    <a class="category" href="{{ SITEURL }}/{{ tag.url }}">{{ tag }}</a>{% if not loop.last %},{% endif %}
-    {% endfor %}
-  </span>
-  {% endif %}
 </p>
