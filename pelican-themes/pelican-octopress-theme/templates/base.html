@@ -12,6 +12,8 @@
   <meta name="author" content="{{ AUTHOR }}">
   {% if article and article.description %}
   <meta name="description" content="{{ article.description }}" />
+  {% else %}
+  <meta name="description" content="Email Courses and Tutorials for Data Scientists" />  
   {% endif %}
   {% if article and article.keywords %}
   <meta name="keywords" content="{{ article.keywords }}" />

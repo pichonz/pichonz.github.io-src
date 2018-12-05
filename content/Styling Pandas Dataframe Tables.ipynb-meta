@@ -2,7 +2,7 @@
 title: Styling Pandas Dataframe Tables
 slug: styling-dataframe-tables
 date: 2018-11-18
-tags: pandas dataframe to_html style, pandas dataframe format, styling pandas dataframe tables, styling dataframe tables
+keywords: pandas dataframe to_html style, pandas dataframe format, styling pandas dataframe tables, styling dataframe tables
 category: pandas
 author: David Rojas
 description: Styling Pandas dataframe tables just got a bit simpler. Keep reading to learn the hidden gem found within the Jupyter Notebook that makes this all possible.

@@ -2,7 +2,7 @@
 title: Pandas Set Index
 slug: pandas-set-index
 date: 2018-12-01
-tags: pandas set index, pandas set column as index, python pandas reset index
+keywords: pandas set index, pandas set column as index, python pandas reset index
 category: pandas
 author: David Rojas
 description: The Ultimate guide to the Pandas set index function. Having an index on your dataframes allow you to access additional features that you need to know about today.

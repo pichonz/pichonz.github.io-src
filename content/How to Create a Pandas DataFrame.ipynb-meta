@@ -2,7 +2,7 @@
 title: How to Create a Pandas DataFrame
 slug: Create-Pandas-DataFrame
 date: 2018-11-11
-tags: pandas dataframe,pandas create dataframe
+keywords: pandas dataframe,pandas create dataframe
 category: pandas
 author: David Rojas
 description: This blog will show you the basics on how to create a Pandas dataframe. We will be converting  a Python list/dictionary and turning it into a dataframe. This will be your very first dataframe!
