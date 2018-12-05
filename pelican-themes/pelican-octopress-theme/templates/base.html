@@ -13,6 +13,9 @@
   {% if article and article.description %}
   <meta name="description" content="{{ article.description }}" />
   {% endif %}
+  {% if article and article.keywords %}
+  <meta name="keywords" content="{{ article.keywords }}" />
+  {% endif %}  
 
   {% if FEED_FEEDBURNER %}
   <link href="http://feeds.feedburner.com/{{ FEED_FEEDBURNER }}" type="application/rss+xml" rel="alternate"
